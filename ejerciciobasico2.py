@@ -1,0 +1,11 @@
+num1 = float(input("Introduce el primer número: "))
+num2 = float(input("Introduce el segundo número: "))
+
+print("La suma es:", num1 + num2)
+print("La resta es:", num1 - num2)
+print("La multiplicación es:", num1 * num2)
+print("La división es:", num1 / num2)
+print("La potencia es:", num1 ** num2)
+print("La raíz cuadrada del primer número es:", num1 ** 0.5)
+print("La raíz cuadrada del segundo número es:", num2 ** 0.5)
+print("El porcentaje es:", (num1 / 100) * num2)
